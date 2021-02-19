@@ -1,0 +1,1 @@
+REPLACE INTO `variables` (`varname`, `value`, `information`, `ts`, `wa_comments`, `wa_tags`, `wa_timestamp`) VALUES ('MOTD', 'Welcome to WarAngel\'s EQEmu server!!', '', '2021-02-13 18:59:56', 'Changed the welcome info.', 'wa_', '2021-02-13 18:59:56');
