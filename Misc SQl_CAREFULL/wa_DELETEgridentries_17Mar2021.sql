@@ -1,0 +1,234 @@
+-- --------------------------------------------------------------------------
+-- Ceated	: 08Mar 2021
+-- Authur	: WarAngel
+-- Desc.	: The reason I made a separated DELETE .sql is that the other
+-- 			.sql files are organic and ever changing.
+-- --------------------------------------------------------------------------
+
+DELETE FROM `grid_entries` WHERE `zoneid`=25 AND `gridid`=78 AND `number`=3;
+-- -
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=82 AND `number`=0;
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=82 AND `number`=1;
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=82 AND `number`=30;
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=83 AND `number`=0;
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=83 AND `number`=1;
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=83 AND `number`=20;
+-- -
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=71 AND `number`=45;
+-- -
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=55 AND `number`=43;
+-- -
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=81 AND `number`=37;
+-- -
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=69 AND `number`=47;
+-- -
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=36 AND `number`=22;
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=36 AND `number`=24;
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=36 AND `number`=25;
+-- -
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=36 AND `number`=22;
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=36 AND `number`=24;
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=36 AND `number`=25;
+-- -
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=53 AND `number`=49;
+-- -
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=49 AND `number`=74;
+-- -
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=18 AND `number`=63;
+-- -
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=29 AND `number`=29;
+-- -
+DELETE FROM `grid_entries` WHERE  `zoneid`=25 AND `gridid`=17 AND `number`=50;
+-- -
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=8;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=9;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=10;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=11;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=12;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=13;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=14;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=15;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=16;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=17;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=18;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=19;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=20;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=21;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=22;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=23;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=24;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=25;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=26;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=27;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=28;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=29;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=30;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=31;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=32;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=33;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=34;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=35;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=36;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=37;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=38;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=39;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=40;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=41;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=42;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=43;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=44;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=45;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=46;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=47;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=48;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=49;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=50;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=51;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=52;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=53;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=54;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=55;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=56;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=57;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=58;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=59;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=60;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=61;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=62;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=63;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=64;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=65;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=66;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=67;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=68;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=69;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=70;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=71;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=72;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=73;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=74;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=75;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=76;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=77;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=78;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=79;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=80;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=81;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=82;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=83;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=84;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=85;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=86;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=87;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=88;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=89;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=90;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=91;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=92;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=93;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=94;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=95;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=96;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=97;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=98;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=99;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=100;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=101;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=102;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=103;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=104;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=105;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=106;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=107;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=108;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=109;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=110;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=111;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=112;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=113;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=114;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=115;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=116;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=117;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=118;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=119;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=120;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=121;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=122;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=123;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=124;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=125;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=126;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=127;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=128;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=129;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=130;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=131;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=132;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=133;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=134;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=135;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=136;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=137;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=138;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=139;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=140;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=141;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=142;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=143;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=144;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=145;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=146;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=147;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=148;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=149;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=150;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=151;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=152;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=153;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=154;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=155;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=156;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=157;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=158;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=159;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=160;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=161;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=162;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=163;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=164;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=165;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=166;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=167;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=168;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=169;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=170;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=171;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=172;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=173;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=174;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=175;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=176;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=177;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=178;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=179;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=180;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=181;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=182;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=183;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=184;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=185;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=186;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=187;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=188;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=189;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=190;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=191;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=192;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=193;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=194;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=195;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=196;
+DELETE FROM `grid_entries` WHERE  `zoneid`=40 AND `gridid`=7 AND `number`=197;
+-- -
+
