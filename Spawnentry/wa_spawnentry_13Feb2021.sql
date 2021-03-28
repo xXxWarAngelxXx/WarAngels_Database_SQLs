@@ -1,1 +1,0 @@
-REPLACE INTO `spawnentry` (`spawngroupID`, `npcID`, `chance`, `condition_value_filter`, `wa_comments`, `wa_tags`, `wa_timestamp`) VALUES (1000000, 3000000, 100, 1, 'Tutorial merchant.', 'wa_', '2021-02-12 17:45:40');

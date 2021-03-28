@@ -1,6 +1,0 @@
-REPLACE INTO `spawnentry` (`spawngroupID`, `npcID`, `chance`, `condition_value_filter`, `wa_comments`, `wa_tags`, `wa_timestamp`) VALUES (1000001, 3000001, 34, 1, 'WoodElf newbie player NPCs. ', 'wa_ woodelf ', '2021-02-15 19:03:13');
-REPLACE INTO `spawnentry` (`spawngroupID`, `npcID`, `chance`, `condition_value_filter`, `wa_comments`, `wa_tags`, `wa_timestamp`) VALUES (1000001, 3000002, 33, 1, 'WoodElf newbie player NPCs. ', 'wa_ woodelf ', '2021-02-15 19:03:10');
-REPLACE INTO `spawnentry` (`spawngroupID`, `npcID`, `chance`, `condition_value_filter`, `wa_comments`, `wa_tags`, `wa_timestamp`) VALUES (1000001, 3000003, 33, 1, 'WoodElf newbie player NPCs. ', 'wa_ woodelf ', '2021-02-15 19:03:09');
-REPLACE INTO `spawnentry` (`spawngroupID`, `npcID`, `chance`, `condition_value_filter`, `wa_comments`, `wa_tags`, `wa_timestamp`) VALUES (1000000, 3000000, 100, 1, 'Tutorial merchant.', 'wa_ ', '2021-02-15 19:01:13');
-REPLACE INTO `spawnentry` (`spawngroupID`, `npcID`, `chance`, `condition_value_filter`, `wa_comments`, `wa_tags`, `wa_timestamp`) VALUES (7327, 54026, 97, 1, 'Skele', 'wa_ ', '2021-02-15 19:04:13');
-REPLACE INTO `spawnentry` (`spawngroupID`, `npcID`, `chance`, `condition_value_filter`, `wa_comments`, `wa_tags`, `wa_timestamp`) VALUES (7327, 2024, 3, 1, 'Added a beetle. ', 'wa_ ', '2021-02-15 12:52:57');
